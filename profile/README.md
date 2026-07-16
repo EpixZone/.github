@@ -19,7 +19,7 @@ Epix is building the infrastructure for a decentralized world, built on two pill
 
 Together they form a full stack for decentralized applications: a chain for value and governance, and a network for content and communication, with the **xID** identity system linking the two.
 
-## 🌟 Key Projects
+## Key Projects
 
 ### Blockchain
 
