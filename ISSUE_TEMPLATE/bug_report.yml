@@ -9,6 +9,15 @@ body:
         Thanks for taking the time to report a bug!
 
         ⚠️ **Do not report security vulnerabilities here.** Use private reporting instead — see our [security policy](https://github.com/EpixZone/.github/blob/main/SECURITY.md).
+
+        🚨 **Beware of scammers.** Bots reply to issues that mention wallets or seed phrases, posing as support. Epix maintainers will **never** ask for your seed phrase or private key, or send you to a "recovery" site or DM. Real maintainers show a **Member**, **Owner** or **Collaborator** badge.
+  - type: checkboxes
+    id: scam-ack
+    attributes:
+      label: Safety check
+      options:
+        - label: I understand Epix maintainers will never ask for my seed phrase, private key, or ask me to visit a site or DM to "fix" my wallet. I have not pasted either in this issue.
+          required: true
   - type: textarea
     id: description
     attributes:

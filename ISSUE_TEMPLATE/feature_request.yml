@@ -7,6 +7,8 @@ body:
     attributes:
       value: |
         Thanks for suggesting an improvement! For open-ended ideas, consider starting a conversation on [Discord](https://discord.gg/bF2GKHgrfv) first.
+
+        🚨 **Beware of scammers.** Epix maintainers will **never** ask for your seed phrase or private key, or send you to a "recovery" site or DM.
   - type: textarea
     id: problem
     attributes:
