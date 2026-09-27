@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
+  - name: 🚨 Beware of scammers
+    url: https://github.com/EpixZone/.github/blob/main/SUPPORT.md#-beware-of-scammers
+    about: We will never ask for your seed phrase or private key. Read this before you accept help from anyone.
   - name: 🔒 Report a security vulnerability
     url: https://github.com/EpixZone/.github/blob/main/SECURITY.md
     about: Please report security issues privately — never in a public issue.

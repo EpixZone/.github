@@ -9,7 +9,7 @@ The Epix team takes the security of our blockchain, network stack, smart contrac
 Instead, use one of these private channels:
 
 1. **GitHub private vulnerability reporting** (preferred): on the affected repository, go to **Security → Report a vulnerability**. This creates a private advisory visible only to maintainers.
-2. **Discord direct message**: contact a core team member privately on [Discord](https://discord.gg/bF2GKHgrfv) and ask for a secure channel — do not post details in public channels.
+2. **Discord direct message**: contact a core team member privately on [Discord](https://discord.gg/bF2GKHgrfv) and ask for a secure channel — do not post details in public channels. Only message people who hold a team role on the official server. We never DM first, and we never ask for seed phrases or private keys.
 
 Please include as much of the following as you can:
 
